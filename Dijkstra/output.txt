@@ -1,0 +1,12 @@
+Chemin entre 0 et 0 : 0
+le cout : 0.000000
+Chemin entre 0 et 1 : 0--->1
+le cout : 2.000000
+Chemin entre 0 et 2 : 0--->1--->2
+le cout : 3.000000
+Chemin entre 0 et 3 : 0--->1--->4--->3
+le cout : 7.000000
+Chemin entre 0 et 4 : 0--->1--->4
+le cout : 4.000000
+Chemin entre 0 et 5 : 0--->1--->4--->5
+le cout : 8.000000

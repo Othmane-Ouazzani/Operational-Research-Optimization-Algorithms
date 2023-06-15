@@ -1,0 +1,3 @@
+La ville de depart choisie de maniere aleatoire est : Tanger
+Le chemin optimal est :
+Tanger=>Fes=>Rabat=>Casablanca=>Meknes=>Tanger avec un cout de 146

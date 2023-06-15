@@ -1,0 +1,2 @@
+Le cout est: 149.0
+Le Chemin optimal est: ['Meknes', 'Fes', 'Casablanca', 'Tanger', 'Rabat']
